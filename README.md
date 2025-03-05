@@ -108,3 +108,20 @@ Future Enhancements
 User-Customized Mood Themes: Allow users to manually adjust colors for each mood.
 Accessibility: Add additional accessibility features, such as high contrast modes or text-to-speech options for visually impaired users.
 Persistent Mood Audio: Play background music or sounds according to the selected mood.
+
+
+
+
+task1 
+# Social Media App
+
+This is a fully responsive social media app built using React. It allows users to view and interact with posts using the DummyJSON API.
+
+## Features
+
+- **User Authentication**: JWT-based login and protected routes.
+- **Post Feed**: Fetch and display posts with likes, content, and tags.
+- **Search, Sort, and Pagination**: Search posts by keywords, sort by likes or date, and paginate the post feed.
+- **Post Details & Comments**: View detailed posts and their associated comments.
+- **User Profile Page**: View a user's profile and their posts.
+- **Light/Dark Mode Toggle**: Switch between light and dark themes.
